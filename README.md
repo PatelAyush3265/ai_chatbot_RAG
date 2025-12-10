@@ -98,7 +98,6 @@ Each expanded query retrieves additional chunks, significantly increasing covera
    Or set it as an environment variable:
    ```powershell
    $env:GROQ_API_KEY="your_groq_api_key_here"
-   GROQ_API_KEY=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
    ```
 
 ## 🚀 Usage
@@ -334,4 +333,5 @@ This implementation demonstrates concepts from:
 
 **Built with ❤️ for better learning through automated quiz generation**
 >>>>>>> 1cb5ea7 (Initial import: RAG quiz generator web app)
+
 
