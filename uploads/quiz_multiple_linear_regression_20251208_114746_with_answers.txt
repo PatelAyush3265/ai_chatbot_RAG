@@ -1,0 +1,69 @@
+================================================================================
+QUIZ: multiple linear regression
+Total Questions: 5
+================================================================================
+
+Question 1: Who is credited with the pioneering work that gave rise to the technique of regression in the 1880s?
+
+  A. Francis R Galton
+  B. Galton Francis
+  C. Sir Francis Galton
+  D. R Francis Galton
+
+✓ Correct Answer: C
+  Explanation: The correct answer is C.
+  Difficulty: mixed
+
+--------------------------------------------------------------------------------
+
+Question 2: What is the matrix formulation of the multiple linear regression model?
+
+  A. Y = X + 2ε
+  B. Y = 2X + ε
+  C. Y = Xβ + ε
+  D. Y = X^2 + ε
+
+✓ Correct Answer: C
+  Explanation: The correct answer is C.
+  Difficulty: mixed
+
+--------------------------------------------------------------------------------
+
+Question 3: What is the formula for the least squares estimator for β in multiple linear regression?
+
+  A. (X^T X) X^T Y
+  B. (X^T X)^-1 / X^T Y
+  C. (X^T X)^-1 X^T Y
+  D. (X^T X) / X^T Y
+
+✓ Correct Answer: C
+  Explanation: The correct answer is C.
+  Difficulty: mixed
+
+--------------------------------------------------------------------------------
+
+Question 4: In the context of linear regression, what is the term for a variable that is used to predict the response variable?
+
+  A. Explanatory variable
+  B. Dependent variable
+  C. Independent variable
+  D. Response variable
+
+✓ Correct Answer: A
+  Explanation: The correct answer is A.
+  Difficulty: mixed
+
+--------------------------------------------------------------------------------
+
+Question 5: What is the name of the scientist who conducted an experiment on sweet peas that led to the development of regression?
+
+  A. Sir Galton Francis
+  B. Galton Francis Sir
+  C. Francis Galton Sir
+  D. Sir Francis Galton
+
+✓ Correct Answer: D
+  Explanation: The correct answer is D.
+  Difficulty: mixed
+
+--------------------------------------------------------------------------------
