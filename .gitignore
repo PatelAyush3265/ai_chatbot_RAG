@@ -1,0 +1,59 @@
+# === Python virtual environments and cache ===
+env/
+env310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Jupyter Notebooks and checkpoints ===
+*.ipynb
+.ipynb_checkpoints/
+*.zip
+# === Data, models, and outputs ===
+datasets_ml/
+distilbert-finetuned-sst2/
+share/
+temp/
+rag_app/chroma_db/
+rag_app/quiz_outputs/
+rag_app/quiz_uploads/
+rag_app/sentiment_model/
+rag_app/uploads/
+rag_app/examples/
+sentiment_app/model/
+
+# === Node.js ===
+ai-chat-react/node_modules/
+build/
+dist/
+
+# === Environment and secrets ===
+.env
+*.env
+rag_app/.env
+chatbot_service/.env
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Exclude PDF and lock files ===
+*.pdf
+/package-lock.json
+
+# === Miscellaneous scripts and binaries ===
+Scripts/
+Include/
+Lib/
+
+# === Exclude only unwanted files, keep project code ===
+!ai_chatbot_RAG-main/
+!ai-chat-react/
+!rag_app/
+!sentiment_app/
+!INTEGRATION_SUMMARY.md
+!QUIZ_GENERATOR_INTEGRATION.md
+
+# Ignore ai_chatbot_RAG-main outside env/
+/../ai_chatbot_RAG-main/
